@@ -44,3 +44,4 @@ The project utilizes the "Conrad747/lg-ner" dataset from Hugging Face for both t
 ## XAI Results and Visualizations
 - **LIME**
 - **SHAP**
+- **eli5**
