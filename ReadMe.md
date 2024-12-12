@@ -1,16 +1,8 @@
 # PII Detection in Low-Resource Language of Luganda Using Deep Learning with Attention Mechanisms
 
-## By:
-
-### Africano BYAMUGISHA
-
-- **Registration Number**: 2023/HD05/04595U
-- **Email**: byamugisha.africano@students.mak.ac.ug
-
-### Gideon MPUNGU
-
-- **Registration Number**: 2023/HD05/04617U
-- **Email**: mpungu.gideon@students.mak.ac.ug
+## Authors
+- **Gideon Mpungu**: [gmbugampungu@gmail.com](mailto:gmbugampungu@gmail.com)
+- **Africano Byamugisha**: [africanobyamugisha@gmail.com](mailto:africanobyamugisha@gmail.com)
 
 ## Background
 In our globally interconnected environment, managing Personally Identifiable Information (PII) poses significant challenges, especially in regions with low-resource languages like Luganda in Uganda. These languages lack sufficient computational resources and tools for Natural Language Processing (NLP), loooking at the difficulty of PII detection and anonymization. This project attempts to address these challenges by leveraging deep learning with attention mechanisms to enhance PII detection in Luganda while ensuring transparency through Explainable AI (XAI).
